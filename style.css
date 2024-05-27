@@ -137,11 +137,11 @@ html, body {
   }
 
   #logo img {
-    width: 150px;
+    width: 120px;
     height: auto;
     position: absolute;
-    left: 90%; /* Position the logo horizontally at the center */
-    transform: translateX(-0%); /* Adjust horizontally to center */
+    left: 80%; /* Position the logo horizontally at the center */
+    transform: translateX(-8%); /* Adjust horizontally to center */
     
   }
   
