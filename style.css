@@ -131,7 +131,7 @@ html, body {
     color: #ffffff; 
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 850px) {
   #nav {
     padding: 0 10px; 
   }
